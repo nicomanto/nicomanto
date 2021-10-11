@@ -13,9 +13,9 @@ I'm a **software developer** (principal **back-end developer**) and IT student a
 ## My GitHub stats 📈 
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=nicomanto&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicomanto&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicomanto&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomanto&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomanto&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
