@@ -7,7 +7,7 @@
 [![Niccolò's Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niccomanto49)
 
 ## About me 👨‍💻
-I'm a **software developer** (principal **back-end developer**) and IT student at the University of Padova. You can find more information about me on my personal site: [www.niccolomantovani.com](https://www.niccolomantovani.com)
+I'm a **software developer** (mainly **back-end developer**) and IT student at the University of Padova. You can find more information about me on my personal site: [www.niccolomantovani.com](https://www.niccolomantovani.com)
 
 
 ## My GitHub stats 📈 
