@@ -15,9 +15,9 @@ I'm a **software developer** (mainly **back-end developer**) and IT student at t
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nicomanto&theme=vue-dark&border_radius=20)](https://git.io/streak-stats)
 
-[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicomanto&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicomanto&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomanto&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomanto&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
