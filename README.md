@@ -1,6 +1,6 @@
 # Hi there, I'm [Niccolò Mantovani](https://www.niccolomantovani.com) 👋 
 
-[![Niccolò's Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fwww.niccolomantovani.com%2F)](https://www.niccolomantovani.com/)
+[![Niccolò's Website](https://api.checklyhq.com/v1/badges/checks/99c0d7c3-1787-40fe-a43f-931cf64e00e9?style=for-the-badge&theme=default&responseTime=true)](https://www.niccolomantovani.com/)
 [![Niccolò's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niccolò-mantovani-25b54621b)
 [![Niccolò's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nicomanto)
 [![Niccolò's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niccolo_mantovani/)
