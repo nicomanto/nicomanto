@@ -4,7 +4,7 @@
 [![Niccolò's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niccolò-mantovani-25b54621b)
 [![Niccolò's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nicomanto)
 [![Niccolò's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niccolo_mantovani/)
-[![Niccolò's X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/niccomanto49](https://x.com/niccomanto49))
+[![Niccolò's X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/niccomanto49)
 
 
 
